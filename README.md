@@ -15,6 +15,8 @@ It includes recursion problems, sorting algorithms, and performance comparisons.
 - Q3_MergeSortStocks.java → Merge sort implementation to sort stock prices.
 - Q4_BubbleSort.java → Bubble sort implementation.
 - Q5_ShellSort.java → Shell sort implementation.
+- QuickSort.java → Quick Sort implementation to sort an integer array using divide-and-conquer.
+- RadixSort.java → Radix Sort implementation to sort integers digit by digit using Counting Sort.
 
 ### 03-Sorting-Comparison
 - Q6_SortingComparison.java → Compare execution times of Bubble, Selection, Insertion, and Shell Sort.
@@ -25,6 +27,7 @@ It includes recursion problems, sorting algorithms, and performance comparisons.
 - Clean, modular Java programs.
 - Organized by topic for easy navigation.
 - Each question includes code, problem description, and output example.
+- Includes multiple sorting techniques with performance analysis.
 
 ---
 
