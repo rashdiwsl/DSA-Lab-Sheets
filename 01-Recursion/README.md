@@ -21,7 +21,7 @@ The task is to calculate the **total number of medals** won across all sports us
 
 ### Output Screenshot
 
-![MedalCount Output](01-Recursion/Q1_output.png)
+![MedalCount Output](Q1_output.png)
 
 ---
 
@@ -45,7 +45,7 @@ The objective is to calculate the **minimum path cost** using recursion.
 
 ### Output Screenshot
 
-![RobotShortestPath Output](01-Recursion/Q2_output.png)
+![RobotShortestPath Output](Q2_output.png)
 
 ---
 
