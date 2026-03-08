@@ -16,3 +16,11 @@ Algorithms implemented:
 3. Sort the array using each algorithm.
 4. Measure execution time in milliseconds.
 5. Print the time taken for each algorithm.
+
+
+> Note: Times will vary depending on machine specifications.
+
+## Learning
+- Understand the performance differences between basic sorting algorithms.
+- Learn which algorithms are efficient for large datasets.
+- Observe why Shell Sort is much faster than Bubble, Selection, and Insertion for large arrays.
