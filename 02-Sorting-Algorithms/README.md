@@ -6,6 +6,7 @@ This folder contains implementations of common **sorting algorithms** in Java:
 - **Bubble Sort** – BubbleSort.java  
 - **Shell Sort** – ShellSort.java  
 - **Quick Sort** – QuickSort.java  
+- **Radix Sort** – RadixSort.java
 
 ---
 
