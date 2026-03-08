@@ -46,3 +46,10 @@ QuickSort is a **divide-and-conquer algorithm** used to sort arrays efficiently.
 - Partitions the array so smaller elements go left, larger go right  
 - Recursively sorts left and right subarrays
 
+## Radix Sort – RadixSort.java
+
+**Description:**  
+Radix Sort is a **non-comparative integer sorting algorithm**.  
+- Sorts numbers digit by digit starting from the least significant digit.  
+- Uses **Counting Sort** as a subroutine for each digit.  
+- Efficient for large numbers of integers with similar length.
