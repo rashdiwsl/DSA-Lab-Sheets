@@ -1,4 +1,4 @@
-# Q6 – Sorting Algorithm Performance Comparison
+# Sorting Algorithm Performance Comparison
 
 ## Problem
 Compare the execution time of different sorting algorithms on a randomly generated array.
