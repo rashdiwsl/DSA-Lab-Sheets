@@ -8,7 +8,7 @@ This folder contains implementations of common **sorting algorithms** in Java:
 
 ---
 
-## 1️⃣ Merge Sort – Q3_MergeSortStocks.java
+## 1️⃣ Merge Sort – MergeSortStocks.java
 
 **Description:**  
 This program sorts an array of stock prices using the **Merge Sort algorithm**.  
@@ -20,7 +20,7 @@ Merge Sort is a **divide-and-conquer algorithm** with **time complexity O(n log 
 
 ---
 
-## 2️⃣ Bubble Sort – Q4_BubbleSort.java
+## 2️⃣ Bubble Sort – BubbleSort.java
 
 **Description:**  
 Bubble Sort repeatedly compares adjacent elements and swaps them if they are in the wrong order.  
@@ -29,7 +29,7 @@ Bubble Sort repeatedly compares adjacent elements and swaps them if they are in 
 
 ---
 
-## 3️⃣ Shell Sort – Q5_ShellSort.java
+## 3️⃣ Shell Sort – ShellSort.java
 
 **Description:**  
 Shell Sort is an optimization over Insertion Sort that allows **exchange of far apart elements**.  
