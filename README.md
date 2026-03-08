@@ -1,4 +1,7 @@
 # Data Structures & Algorithms in Java
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-0A74DA?style=flat&logo=codeforces)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 This repository contains Java implementations of common **Data Structures & Algorithms** exercises from lab sheets.  
 It includes recursion problems, sorting algorithms, and performance comparisons.
