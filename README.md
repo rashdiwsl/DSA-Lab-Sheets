@@ -7,27 +7,26 @@ It includes recursion problems, sorting algorithms, and performance comparisons.
 
 ## Repository Structure
 
-### 01-Recursion
-- Q1_MedalCount.java → Count total medals across sports using recursion.
-- Q2_RobotShortestPath.java → Find minimum cost path for a robot using recursion.
+### Recursion
+- **MedalCount.java** → Count total medals across sports using recursion.  
+- **RobotShortestPath.java** → Find minimum cost path for a robot using recursion.
 
-### 02-Sorting-Algorithms
-- Q3_MergeSortStocks.java → Merge sort implementation to sort stock prices.
-- Q4_BubbleSort.java → Bubble sort implementation.
-- Q5_ShellSort.java → Shell sort implementation.
-- QuickSort.java → Quick Sort implementation to sort an integer array using divide-and-conquer.
-- RadixSort.java → Radix Sort implementation to sort integers digit by digit using Counting Sort.
+### Sorting Algorithms
+- **MergeSortStocks.java** → Sort an array of stock prices using the Merge Sort algorithm (divide-and-conquer, stable, O(n log n)).  
+- **BubbleSort.java** → Bubble Sort implementation; repeatedly swaps adjacent elements to sort an array (simple but O(n²)).  
+- **ShellSort.java** → Shell Sort implementation; improves Insertion Sort using a gap sequence for efficient sorting (O(n log n) depending on gap).  
+- **QuickSort.java** → Quick Sort implementation; divide-and-conquer algorithm using pivot partitioning to sort arrays efficiently (Best/Average: O(n log n), Worst: O(n²)).  
+- **RadixSort.java** → Radix Sort implementation; non-comparative sorting that processes digits of integers using Counting Sort (O(nk), k = number of digits).
 
-### 03-Sorting-Comparison
-- Q6_SortingComparison.java → Compare execution times of Bubble, Selection, Insertion, and Shell Sort.
+### Sorting Performance Comparison
+- **SortingComparison.java** → Compares execution times of Bubble, Selection, Insertion, and Shell Sort on random arrays.
 
 ---
 
 ## Features
-- Clean, modular Java programs.
-- Organized by topic for easy navigation.
-- Each question includes code, problem description, and output example.
-- Includes multiple sorting techniques with performance analysis.
+- Clean, modular Java programs organized by topic.  
+- Each program includes code, problem description, and sample output.  
+- Multiple sorting algorithms with performance analysis for educational comparison.
 
 ---
 
